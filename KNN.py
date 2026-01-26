@@ -5,9 +5,6 @@ from collections import Counter
 def euclidean_distance(a, b):
     return np.sqrt(np.sum((a - b) ** 2))
 
-
-
-
 class KNN:
     def __init__(self, k=3) -> None:
         self.k = k
