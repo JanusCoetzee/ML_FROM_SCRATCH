@@ -31,10 +31,10 @@ pip install numpy scikit-learn matplotlib
 ## Project Structure
 
 ```
-├── KNN.py                 # K-Nearest Neighbors implementation
-├── LinearRegression.py    # Linear Regression implementation
-├── train.py              # Training script for KNN
-├── trainLR.py            # Training script for Linear Regression
+├── KNN.py                  # K-Nearest Neighbors implementation
+├── LinearRegression.py     # Linear Regression implementation
+├── trainKNN.py             # Training script for KNN
+├── trainLR.py              # Training script for Linear Regression
 └── README.md
 ```
 
